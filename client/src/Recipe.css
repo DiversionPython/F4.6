@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+.recipe {
+    list-style-type: none;
+    margin: 0;
+    padding: 8px 16px;
+    width: 20%;
+    background-color: #808080;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+.panel_recipe {
+    margin-left:25%;
+    padding:1px 16px;
+    height:100%;
+    font-family: "Times New Roman", Times, serif;
+}
